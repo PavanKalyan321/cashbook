@@ -1,0 +1,4 @@
+movie	1	100$
+recharge	2	399$
+travel expenses	3	80$
+lunch	4	100$
